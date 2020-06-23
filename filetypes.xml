@@ -6,14 +6,14 @@
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="m2" type="Python" />
+      <mapping pattern="m1" type="Python" />
+      <mapping pattern="iterators" type="Python" />
+      <mapping pattern="practice" type="Python" />
+      <mapping pattern="Vishal" type="Python" />
+      <mapping pattern="whatsapp" type="Python" />
       <mapping pattern="FileRead" type="Python" />
       <mapping pattern="table" type="Python" />
-      <mapping pattern="Vishal" type="Python" />
-      <mapping pattern="practice" type="Python" />
-      <mapping pattern="m2" type="Python" />
-      <mapping pattern="whatsapp" type="Python" />
-      <mapping pattern="iterators" type="Python" />
-      <mapping pattern="m1" type="Python" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
